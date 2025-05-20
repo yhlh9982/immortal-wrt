@@ -119,7 +119,6 @@ UPDATE_VERSION "sing-box"
 UPDATE_VERSION "tailscale"
 
 #smartdns
-#smartdns
 WORKINGDIR="`pwd`/feeds/packages/net/smartdns"
 mkdir $WORKINGDIR -p
 rm $WORKINGDIR/* -fr
